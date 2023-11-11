@@ -1,0 +1,23 @@
+{
+    "contact": {
+      "firstName": "Julie",
+      "lastName": "Da Silva",
+      "email": "Julie@yahoo.com",
+      "favoriteColor": "Pink",
+      "birthday": "29 Aug 1975"
+    },
+    "contact2": {
+      "firstName": "Gabriel",
+      "lastName": "Da Silva",
+      "email": "Gabriel@yahoo.com",
+      "favoriteColor": "Black",
+      "birthday": "07 Dec 2007"
+    },
+    "contact3": {
+      "firstName": "Zoe",
+      "lastName": "Da Silva",
+      "email": "Zoe@yahoo.net",
+      "favoriteColor": "light blue",
+      "birthday": "1 Apr 2008"
+    }
+  }
