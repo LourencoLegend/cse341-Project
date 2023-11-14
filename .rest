@@ -6,7 +6,7 @@ GET http://localhost:8080/contacts/63c9c83202c9ff12344de4a7 HTTP/1.1
 
 ###
 
-GET https://cse341-2-dzgj.onrender.com/contacts HTTP/1.1
+GET https://cse341-s9c8.onrender.com/contacts HTTP/1.1
 
 ### 
-GET https://cse341-2-dzgj.onrender.com/contacts/63c9c83202c9ff12344de4a7 HTTP/1.1
+GET https://cse341-s9c8.onrender.com/contacts/63c9c83202c9ff12344de4a7 HTTP/1.1
