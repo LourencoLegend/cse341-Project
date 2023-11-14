@@ -48,11 +48,11 @@ POST https://cse341-instructor.herokuapp.com/contacts HTTP/1.1
 content-type: application/json
 
 {
-    "firstName":"Ashley",
-    "lastName":"Weaver",
-    "email":"aWeaver@test.com",
-    "favoriteColor":"Brown",
-    "birthday":"06/19/2000"
+    "firstName": "Zoe",
+    "lastName": "Da Silva",
+    "email": "Zoe@yahoo.net",
+    "favoriteColor": "light blue",
+    "birthday": "1 Apr 2008"
 }
 
 
@@ -61,11 +61,11 @@ PUT https://cse341-instructor.herokuapp.com/contacts/6220bcb39cd507e920c75a0b HT
 content-type: application/json
 
 {
-    "firstName":"Sarah",
-    "lastName":"Birch",
-    "email":"sarahB@gmail.com",
-    "favoriteColor":"Yellow",
-    "birthday":"06/12/20"
+    "firstName": "Julie",
+    "lastName": "Da Silva",
+    "email": "Julie@yahoo.com",
+    "favoriteColor": "Pink",
+    "birthday": "29 Aug 1975"
 }
 
 
