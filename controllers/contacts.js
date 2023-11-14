@@ -38,7 +38,7 @@ const createContact = async (req, res)=>{
     if (result.acknowledged){
         res.status(204).json({ message: "Successfully created user" });
     }else{
-        res.status(500).json({error:"Some error occured updating the user"});
+        res.status(500).json({error:"Some error occurred updating the user"});
       }
 }    
     
@@ -54,7 +54,7 @@ const updateContact = async (req, res)=>{
     if (result.modifiedCount > 0){
         res.status(204).json({ message: "Successfully updated user" });
     }else{
-        res.status(500).json({error:"Some error occured updating the user"});
+        res.status(500).json({error:"Some error occurred updating the user"});
       }
 }    
 
@@ -65,7 +65,7 @@ const deleteContact = async (req, res) =>{
         if (result.deletedCount > 0){
             res.status(204).json({ message: "Successfully deleted user" });
         }else{
-            res.status(500).json({error:"Some error occured updating the user"});
+            res.status(500).json({error:"Some error occurred updating the user"});
         }
 }
 
